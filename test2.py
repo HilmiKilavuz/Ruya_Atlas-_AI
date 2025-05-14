@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
 # API anahtarı ayarlama
-genai.configure(api_key="AIzaSyDI5dhVf1wfWKFrxS8QiaTliraRnA-orvc")  # API Anahtarımız
+genai.configure(api_key="Your_API_Key")  # API Anahtarımız
 
 # Modeli başlatma
 model = genai.GenerativeModel("gemini-1.5-pro")
