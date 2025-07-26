@@ -1,2 +1,3 @@
 # Ruya_Atlas-_AI
-aa
+kodlar masterda
+
